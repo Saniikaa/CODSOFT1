@@ -5,5 +5,7 @@ A simple and efficient application that helps users manage and organize their da
 
 Features:
   Add tasks to your to-do list.
+  
   Update tasks to reflect changes.
+  
   Track and mark tasks as completed.
